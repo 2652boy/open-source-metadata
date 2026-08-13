@@ -15,8 +15,8 @@ from tkinter.font import Font
 # -*- coding: utf-8 -*-
 """
 文件名：档案元数据写入工具
-作者：Community Contributors
-版权声明：Copyright 2025 Community Contributors.
+作者：2652boy
+版权声明：Copyright 2025 2652boy.
 许可证：本程序基于 MIT 许可证发布。
 说明：此程序是一个基于Tkinter的图像元数据读取与写入工具，集成ExifTool，支持XML和Excel导出。
 """
@@ -491,7 +491,7 @@ root.minsize(root.winfo_width(), 600)
 # 窗口底部的版权信息
 copyright_label = ttk.Label(
     root,
-    text="Copyright 2025 Community Contributors. Licensed under MIT.",
+    text="Copyright 2025 2652boy. Licensed under MIT.",
     foreground="gray",
     anchor="center"
 )
